@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grow-mindset.github.io/maison-de-vert/sitemap.xml
